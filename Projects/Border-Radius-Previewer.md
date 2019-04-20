@@ -13,6 +13,7 @@ The border-radius property can have multiple values changed. Preview how the sha
 ## Bonus features
 
 -   [ ] User can change all 8 possible values of the border-radius in order to create a complex shape
+-   [ ] Support Offline
 
 ## Useful links and resources
 
